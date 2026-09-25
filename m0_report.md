@@ -1,5 +1,8 @@
 # Milestone 0 Report
 
+**Name:** Frank Tsai  
+**Email:** [franktsa@andrew.cmu.edu](mailto:franktsa@andrew.cmu.edu)
+
 ## Learning
 
 I use the provided event, user, and movie datasets. The event data contains watch and rating events for 1,000 users with interaction history, together with account-created events for 50 cold-start users. Ratings range from 1 to 10. The user data contains demographic information and free-form descriptions of movies users like and dislike. The movie data contains metadata including title, genres, overview, popularity, ratings, external IDs, and license cost.
